@@ -1,4 +1,4 @@
-cloudify-softlayer
+This is the dev repository to deploy cloudify on a softlayer vps
 ==================
 
-cloudify-softlayer
+instructions: Cloudify Team     
